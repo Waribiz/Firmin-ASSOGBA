@@ -1,0 +1,1 @@
+ <?php include '../views/hearder.php'; ?> <br> nom: Dans <br>prenom: ataté  <br>  email:  waribiz680@gmail.com  <br>pays: benin <br> profession: azertyu  <br> sexe: homme  <br> type: formationComplete  <br> numero: 2345678  <br>formation: FORMATION CRYPTO  <br>
